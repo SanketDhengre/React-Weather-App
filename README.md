@@ -7,9 +7,6 @@ This is a simple weather application created using React. It fetches data from t
 - Supports searching for weather in different cities
 - Provides weather details such as temperature, humidity, wind speed, and weather conditions
 
-### Visit this project at: https://sanketdhengre.github.io/React-Weather-App
-
-
 ![image](https://user-images.githubusercontent.com/83276393/232554353-a4e55c89-3dff-4755-9eb8-f9db05ef202f.png)
 
 
